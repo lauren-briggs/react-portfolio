@@ -1,0 +1,14 @@
+
+@font-face {
+    font-family: "Bagnard";
+    src: url(./font/Bagnard.otf); 
+  }
+  
+  @font-face {
+    font-family: "SuisseIntlMono-Regular-WebS";
+    src: url(./font/SuisseIntlMono-Regular-WebS.woff); 
+  }
+
+  li{
+      font-family: "Bagnard";
+  }
